@@ -1,2 +1,3 @@
 # machine-learning-tutorials
-Pythonnn and Machine Learning Tutorials - Alison Course
+Python and Machine Learning Tutorials - Alison Course
+Basic Python and Machine Learning
